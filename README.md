@@ -10,6 +10,7 @@
   <img alt="Swift 5" src="https://img.shields.io/badge/Swift-5-F05138?logo=swift&logoColor=white">
   <img alt="Сборка без Xcode" src="https://img.shields.io/badge/сборка-без%20Xcode-2ea44f">
   <img alt="Потребляет 0,06 % ядра" src="https://img.shields.io/badge/потребляет-0,06%20%25%20ядра-blue">
+  <img alt="Лицензия 0BSD" src="https://img.shields.io/badge/лицензия-0BSD-lightgrey">
 </p>
 
 ```
@@ -194,3 +195,9 @@ defaults delete com.ishtadeva.ResBar
 ```
 
 Если был включён автозапуск, выключите его в настройках приложения до удаления.
+
+## Лицензия
+
+[0BSD](LICENSE) — делайте с этим кодом что угодно: используйте, меняйте,
+распространяйте, встраивайте в свои проекты, в том числе коммерческие. Указывать
+авторство и сохранять текст лицензии не требуется. Гарантий, разумеется, никаких.
